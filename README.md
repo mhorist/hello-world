@@ -1,3 +1,4 @@
-# hello-world
-getting acclimated with GitHub
-I was once an Opera Singer. Then I discovered a love for Technology.
+# Hello, World!
+I am an Opera Singer turned Technology Nerd. 
+I have worked within the Cisco infrastructure space and technology staffing.
+I can no longer deny my inner hunger toward becoming a software developer.
